@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21683407-aabb-4473-a206-5dd44ac569ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/ApplicationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/templates/test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="spring_project" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,7 +33,13 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/demo/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/demo/src/main/resources/templates" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -60,23 +73,31 @@
       <option name="project" value="LOCAL" />
       <updated>1606551086275</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add template">
+      <created>1606552272126</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606552272126</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add dependency" />
     <MESSAGE value="-" />
-    <option name="LAST_COMMIT_MESSAGE" value="-" />
+    <MESSAGE value="add template" />
+    <option name="LAST_COMMIT_MESSAGE" value="add template" />
   </component>
   <component name="WindowStateProjectService">
     <state x="240" y="52" key="#Project_Structure" timestamp="1606552105641">
       <screen x="0" y="23" width="1280" height="727" />
     </state>
     <state x="240" y="52" key="#Project_Structure/0.23.1280.727@0.23.1280.727" timestamp="1606552105641" />
-    <state x="104" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606548389219">
+    <state x="104" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606556690004">
       <screen x="0" y="23" width="1280" height="727" />
     </state>
-    <state x="104" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.727@0.23.1280.727" timestamp="1606548389219" />
+    <state x="104" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.727@0.23.1280.727" timestamp="1606556690004" />
     <state x="363" y="82" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1606550728778">
       <screen x="0" y="23" width="1280" height="727" />
     </state>
@@ -85,10 +106,10 @@
       <screen x="0" y="23" width="1280" height="727" />
     </state>
     <state x="489" y="293" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1280.727@0.23.1280.727" timestamp="1606550092431" />
-    <state x="184" y="23" key="CommitChangelistDialog2" timestamp="1606552254378">
+    <state x="184" y="23" key="CommitChangelistDialog2" timestamp="1606552271748">
       <screen x="0" y="23" width="1280" height="727" />
     </state>
-    <state x="184" y="23" key="CommitChangelistDialog2/0.23.1280.727@0.23.1280.727" timestamp="1606552254378" />
+    <state x="184" y="23" key="CommitChangelistDialog2/0.23.1280.727@0.23.1280.727" timestamp="1606552271748" />
     <state x="128" y="85" width="1024" height="581" key="DiffContextDialog" timestamp="1606550427573">
       <screen x="0" y="23" width="1280" height="727" />
     </state>
@@ -97,10 +118,10 @@
       <screen x="0" y="23" width="1280" height="727" />
     </state>
     <state x="252" y="87" key="NewModule_or_Project.wizard/0.23.1280.727@0.23.1280.727" timestamp="1606547143717" />
-    <state x="141" y="25" key="SettingsEditor" timestamp="1606547707895">
+    <state x="141" y="25" key="SettingsEditor" timestamp="1606553285428">
       <screen x="0" y="23" width="1280" height="727" />
     </state>
-    <state x="141" y="25" key="SettingsEditor/0.23.1280.727@0.23.1280.727" timestamp="1606547707895" />
+    <state x="141" y="25" key="SettingsEditor/0.23.1280.727@0.23.1280.727" timestamp="1606553285428" />
     <state x="298" y="143" width="683" height="486" key="find.popup" timestamp="1606543528924">
       <screen x="0" y="23" width="1280" height="727" />
     </state>
@@ -109,5 +130,13 @@
       <screen x="0" y="23" width="1280" height="727" />
     </state>
     <state x="17" y="90" key="new project wizard/0.23.1280.727@0.23.1280.727" timestamp="1606547441831" />
+    <state x="305" y="173" key="run.anything.popup" timestamp="1606553295351">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="305" y="173" key="run.anything.popup/0.23.1280.727@0.23.1280.727" timestamp="1606553295351" />
+    <state x="305" y="74" width="670" height="676" key="search.everywhere.popup" timestamp="1606555927239">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="305" y="74" width="670" height="676" key="search.everywhere.popup/0.23.1280.727@0.23.1280.727" timestamp="1606555927239" />
   </component>
 </project>
