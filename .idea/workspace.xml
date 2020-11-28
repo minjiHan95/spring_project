@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21683407-aabb-4473-a206-5dd44ac569ec" name="Default Changelist" comment="">
+    <list default="true" id="21683407-aabb-4473-a206-5dd44ac569ec" name="Default Changelist" comment="-">
+      <change beforePath="$PROJECT_DIR$/.idea/spring_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/spring_project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,21 +59,30 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add dependency" />
-    <option name="LAST_COMMIT_MESSAGE" value="add dependency" />
+    <MESSAGE value="-" />
+    <option name="LAST_COMMIT_MESSAGE" value="-" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="104" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606548138096">
+    <state x="104" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606548389219">
       <screen x="0" y="23" width="1280" height="727" />
     </state>
-    <state x="104" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.727@0.23.1280.727" timestamp="1606548138096" />
-    <state x="184" y="23" key="CommitChangelistDialog2" timestamp="1606543393747">
+    <state x="104" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.727@0.23.1280.727" timestamp="1606548389219" />
+    <state x="363" y="82" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1606550728778">
       <screen x="0" y="23" width="1280" height="727" />
     </state>
-    <state x="184" y="23" key="CommitChangelistDialog2/0.23.1280.727@0.23.1280.727" timestamp="1606543393747" />
-    <state x="128" y="85" key="DiffContextDialog" timestamp="1606541257641">
+    <state x="363" y="82" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1280.727@0.23.1280.727" timestamp="1606550728778" />
+    <state x="489" y="293" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1606550092431">
       <screen x="0" y="23" width="1280" height="727" />
     </state>
-    <state x="128" y="85" key="DiffContextDialog/0.23.1280.727@0.23.1280.727" timestamp="1606541257641" />
+    <state x="489" y="293" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1280.727@0.23.1280.727" timestamp="1606550092431" />
+    <state x="184" y="23" key="CommitChangelistDialog2" timestamp="1606550937288">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="184" y="23" key="CommitChangelistDialog2/0.23.1280.727@0.23.1280.727" timestamp="1606550937288" />
+    <state x="128" y="85" width="1024" height="581" key="DiffContextDialog" timestamp="1606550427573">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="128" y="85" width="1024" height="581" key="DiffContextDialog/0.23.1280.727@0.23.1280.727" timestamp="1606550427573" />
     <state x="252" y="87" key="NewModule_or_Project.wizard" timestamp="1606547143717">
       <screen x="0" y="23" width="1280" height="727" />
     </state>
