@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21683407-aabb-4473-a206-5dd44ac569ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ktiAOt0f4mzryPRFHZWTQsnVeP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21683407-aabb-4473-a206-5dd44ac569ec" name="Default Changelist" comment="" />
+      <created>1606526143723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606526143723</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add dependency">
+      <created>1606541767243</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606541767243</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add dependency">
+      <created>1606543394042</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606543394042</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add dependency" />
+    <option name="LAST_COMMIT_MESSAGE" value="add dependency" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606547244729">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="104" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.727@0.23.1280.727" timestamp="1606547244729" />
+    <state x="184" y="23" key="CommitChangelistDialog2" timestamp="1606543393747">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="184" y="23" key="CommitChangelistDialog2/0.23.1280.727@0.23.1280.727" timestamp="1606543393747" />
+    <state x="128" y="85" key="DiffContextDialog" timestamp="1606541257641">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="128" y="85" key="DiffContextDialog/0.23.1280.727@0.23.1280.727" timestamp="1606541257641" />
+    <state x="252" y="87" key="NewModule_or_Project.wizard" timestamp="1606547143717">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="252" y="87" key="NewModule_or_Project.wizard/0.23.1280.727@0.23.1280.727" timestamp="1606547143717" />
+    <state x="141" y="25" key="SettingsEditor" timestamp="1606547707895">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="141" y="25" key="SettingsEditor/0.23.1280.727@0.23.1280.727" timestamp="1606547707895" />
+    <state x="298" y="143" width="683" height="486" key="find.popup" timestamp="1606543528924">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="298" y="143" width="683" height="486" key="find.popup/0.23.1280.727@0.23.1280.727" timestamp="1606543528924" />
+    <state x="17" y="90" key="new project wizard" timestamp="1606547441831">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="17" y="90" key="new project wizard/0.23.1280.727@0.23.1280.727" timestamp="1606547441831" />
+  </component>
+</project>
